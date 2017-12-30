@@ -1,0 +1,31 @@
+{
+	"FileVersion" : 3,
+	
+	"FriendlyName" : "Online Subsystem Theia",
+	"Version" : 1,
+	"VersionName" : "1.0",
+	"Description" : "Access to Theia platform",
+	"Category" : "Online Platform",
+	"CreatedBy" : "Theia.io",
+	"CreatedByURL" : "http://theia.io",
+	"EnabledByDefault" : true,
+
+    "Modules": [
+        {
+            "Name": "OnlineSubsystemTheia",
+            "Type": "Runtime",
+            "LoadingPhase" : "Default"
+        }
+    ],
+	"Plugins": [
+		{
+			"Name": "OnlineSubsystem",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineSubsystemUtils",
+			"Enabled": true
+		}
+	]
+
+}

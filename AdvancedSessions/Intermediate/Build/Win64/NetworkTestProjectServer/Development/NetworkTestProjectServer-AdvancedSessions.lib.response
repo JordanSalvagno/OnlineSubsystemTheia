@@ -1,0 +1,8 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+"D:\Unreal Projects\NetworkTestProject\Plugins\AdvancedSessions\Intermediate\Build\Win64\NetworkTestProjectServer\Development\AdvancedSessions\Module.AdvancedSessions.cpp.obj"
+"D:\Unreal Projects\NetworkTestProject\Plugins\AdvancedSessions\Intermediate\Build\Win64\NetworkTestProjectServer\Development\AdvancedSessions\Module.AdvancedSessions.gen.cpp.obj"
+"D:\Unreal Projects\NetworkTestProject\Intermediate\Build\Win64\NetworkTestProjectServer\Development\AdvancedSessions\PCLaunch.rc.res"
+/OUT:"D:\Unreal Projects\NetworkTestProject\Plugins\AdvancedSessions\Binaries\Win64\NetworkTestProjectServer-AdvancedSessions.lib"

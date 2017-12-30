@@ -1,0 +1,7 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+"D:\UnrealEngine-release\Engine\Plugins\Online\OnlineSubsystemTheia\Intermediate\Build\Win64\UE4Server\Development\OnlineSubsystemTheia\Module.OnlineSubsystemTheia.cpp.obj"
+"D:\UnrealEngine-release\Engine\Intermediate\Build\Win64\UE4Server\Development\OnlineSubsystemTheia\PCLaunch.rc.res"
+/OUT:"D:\UnrealEngine-release\Engine\Plugins\Online\OnlineSubsystemTheia\Binaries\Win64\UE4Server-OnlineSubsystemTheia.lib"

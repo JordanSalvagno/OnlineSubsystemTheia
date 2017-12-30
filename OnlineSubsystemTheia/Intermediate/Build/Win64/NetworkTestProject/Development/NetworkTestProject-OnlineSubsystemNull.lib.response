@@ -1,0 +1,7 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+"C:\UnrealEngine-release\Engine\Plugins\Online\OnlineSubsystemNull\Intermediate\Build\Win64\NetworkTestProject\Development\OnlineSubsystemNull\Module.OnlineSubsystemNull.cpp.obj"
+"D:\Unreal Projects\NetworkTestProject\Intermediate\Build\Win64\NetworkTestProject\Development\OnlineSubsystemNull\PCLaunch.rc.res"
+/OUT:"C:\UnrealEngine-release\Engine\Plugins\Online\OnlineSubsystemNull\Binaries\Win64\NetworkTestProject-OnlineSubsystemNull.lib"

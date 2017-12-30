@@ -1,0 +1,7 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+"C:\UnrealEngine-release\Engine\Plugins\Online\OnlineSubsystemNull\Intermediate\Build\Win64\TestProjectSource\Development\OnlineSubsystemNull\Module.OnlineSubsystemNull.cpp.obj"
+"C:\Users\TheiaDev\Documents\Unreal Projects\TestProjectSource\Intermediate\Build\Win64\TestProjectSource\DebugGame\OnlineSubsystemNull\PCLaunch.rc.res"
+/OUT:"C:\UnrealEngine-release\Engine\Plugins\Online\OnlineSubsystemNull\Binaries\Win64\TestProjectSource-OnlineSubsystemNull.lib"

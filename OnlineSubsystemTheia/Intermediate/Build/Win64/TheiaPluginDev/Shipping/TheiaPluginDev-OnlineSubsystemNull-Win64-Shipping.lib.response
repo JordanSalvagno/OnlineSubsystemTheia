@@ -1,0 +1,8 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/LTCG
+"C:\UnrealEngine-release\Engine\Plugins\Online\OnlineSubsystemNull\Intermediate\Build\Win64\TheiaPluginDev\Shipping\OnlineSubsystemNull\Module.OnlineSubsystemNull.cpp.obj"
+"F:\RemoteRepos\TheiaPluginDev\Intermediate\Build\Win64\TheiaPluginDev\Shipping\OnlineSubsystemNull\PCLaunch.rc.res"
+/OUT:"C:\UnrealEngine-release\Engine\Plugins\Online\OnlineSubsystemNull\Binaries\Win64\TheiaPluginDev-OnlineSubsystemNull-Win64-Shipping.lib"
